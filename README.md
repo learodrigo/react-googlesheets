@@ -1,5 +1,7 @@
 # Turning G-Spreadsheets into a REST API
 
+<img src="excel-is-not.jfif" width="300"  alt="Excel is not a database" />
+
 Hey! Check out this, is quiet nice way to connect to your spreadsheets via API. For the whole explanation, check this [tutorial from freeCodeCamp](https://www.freecodecamp.org/news/react-and-googlesheets/) I followed from [@nishant-666](https://github.com/nishant-666). It's pretty well explained and super fast to do.
 
 ## tl;dr
